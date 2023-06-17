@@ -1,5 +1,6 @@
 # ApoorvaTest
 PART - A
+
 1.Mention the working of Internet Website in Terms of Front-end & Back-end Divisions
 
 Internet websites have two main parts: the front-end and the back-end. These parts work together to make a website functional and interactive for users. Here's how they work:
