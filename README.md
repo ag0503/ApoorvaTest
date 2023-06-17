@@ -83,7 +83,7 @@ The Virtual DOM enables React to efficiently update and render UI components by 
 
 4. Mention some Differences between MySQL and No SQL in precise
 
-Sure! Here are simplified and concise differences between MySQL and NoSQL:
+ Here are simplified and concise differences between MySQL and NoSQL:
 
 1. Data Model:
    - MySQL: Uses structured tables, rows, and columns.
